@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Arrays; 
 
 public class Jedi {
-
+//comentarios agg por probar GIT
 	public static void main(String[] args) {
 		/*1. Necesitamos crear un programa para registrar sueldos de hombres y mujeres de
 		 *una empresa y detectar si existe brecha salarial entre ambos. 
